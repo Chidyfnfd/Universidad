@@ -1,0 +1,47 @@
+body {
+    background-color: #323232;
+}
+
+*{
+    padding: 10;
+    margin: 10;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    color: black;
+    border-radius: 7px;
+    padding: 20px;
+    margin-left: 167px;
+    margin-right: 167px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.contenido{
+    text-align: center;
+    background-color: white;
+    border-radius: 7px;
+    padding: 2%;
+    margin: 45px;
+}
+
+a {
+     color: rgb(0, 119, 255);
+}
+.Nombre{
+    text-align: center;
+    color: white;
+    
+}
+.R{
+    text-align: center;
+}
